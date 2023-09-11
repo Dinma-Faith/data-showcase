@@ -13,9 +13,9 @@ This project showcases specific personal and real time data. It showcases curren
 ## Github URL
 - [URL](https://github.com/Dinma-Faith/data-showcase/tree/dev)
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://data-showcase.netlify.app/)
 
 
 ## Getting Started
