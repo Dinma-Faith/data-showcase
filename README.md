@@ -1,6 +1,6 @@
 # Data Showcase
 
-This project showcases specific personal and real time data
+This project showcases specific personal and real time data. It showcases current day of the week and currnet time of the day in milliseconds.
 
 
 
