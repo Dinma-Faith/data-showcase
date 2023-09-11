@@ -10,7 +10,8 @@ This project showcases specific personal and real time data. It showcases curren
 - CSS3
 - JavaScript
 
-##Github Link (https://github.com/Dinma-Faith/data-showcase/tree/dev)
+## Github URL
+- [URL](https://github.com/Dinma-Faith/data-showcase/tree/dev)
 
 ## Live Demo (if available)
 
