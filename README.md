@@ -1,6 +1,6 @@
 # Data Showcase
 
-This project showcases specific personal and real time data
+This project showcases specific personal and real time data. It showcases current day of the week and currnet time of the day in milliseconds.
 
 
 
@@ -10,9 +10,12 @@ This project showcases specific personal and real time data
 - CSS3
 - JavaScript
 
-## Live Demo (if available)
+## Github URL
+- [URL](https://github.com/Dinma-Faith/data-showcase/tree/dev)
 
-[Live Demo Link](https://livedemo.com)
+## Live Demo
+
+[Live Demo Link](https://data-showcase.netlify.app/)
 
 ## GITHUB URL
 
