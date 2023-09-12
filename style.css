@@ -3,6 +3,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   text-align: center;
+  background-color: #FAF9F6;
 }
 
 .name {
@@ -11,7 +12,7 @@ body {
 }
 
 .profile-img {
-  max-width: 100%;
+  max-width: 50%;
   display: block;
   margin: 0 auto;
   border-radius: 100%;
@@ -20,7 +21,7 @@ body {
 
 .date-time {
   padding: 20px;
-  margin: 50px auto;
+  margin: 10px auto;
 }
 
 .date-time-header {
@@ -29,15 +30,20 @@ body {
 }
 
 .date-time-text {
-  margin: 10px;
+  margin: 2px;
   color: #333;
 }
 
 .track {
   text-transform: uppercase;
-  border: 3px solid #fff;
+  border: 3px solid #333;
   border-radius: 48%;
   background-color: #fff;
   color: rgb(9, 9, 212);
   width: auto;
+}
+
+.date-time a {
+  text-decoration: none;
+  color: #333;
 }

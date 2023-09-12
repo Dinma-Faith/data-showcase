@@ -14,6 +14,9 @@ This project showcases specific personal and real time data
 
 [Live Demo Link](https://livedemo.com)
 
+## GITHUB URL
+
+- [URL](https://github.com/Dinma-Faith/data-showcase/tree/dev)
 
 ## Getting Started
 
